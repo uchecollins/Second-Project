@@ -1,0 +1,205 @@
+.container{
+    /* border: 5px solid blue; */
+      margin: 100px;
+background-color: aliceblue; 
+box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+.head{
+    /* border: 3px black  coral; */
+    text-align: center;
+    padding: 25px;
+    background-color: black;
+    height: 50px;
+    
+  
+}
+#logo1{
+    width: 120px;
+    height: 150px;
+    padding: 30px 10px 0px 0px;
+    cursor: not-allowed;
+}
+
+h1{
+    text-align: center;
+}
+#navs{
+    display: flex;
+    list-style: none;
+    cursor: help;
+    font-style: italic;
+   
+}
+
+button{
+    color:white;
+    background-color:coral;
+    border: none;
+    height: 40px;
+    font-size:x-large;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+
+h2{
+    text-align: center;
+    margin-left: 250px ;
+}
+select{
+    height: 40px;
+    font-size:x-large;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    cursor: progress;
+}
+.firstchild{
+    /* border: 3px solid brown; */
+    color: white;
+    text-align: center;
+    background-image: url(./imgages/index9.jpg);
+    padding: 40px;
+    cursor: all-scroll;
+    
+    }
+    h3{
+        font-size: xx-large;
+        font-style: inherit;
+    }
+    h5{
+        font-size:x-large;
+        font-style: italic;
+    }
+    
+    .centercont{
+        /* border: 2px solid gray; */
+       margin: 30px;
+       padding: 10px;
+       margin-bottom:5%;
+    }
+    .fa{
+        font-size: xx-large;
+        font-style: inherit;
+        text-align: center;
+        color: coral;
+        font-weight: bolder;
+        margin-top: 18px;
+    }
+    #in{
+        display: flex;
+        list-style:none;
+        font-style: italic;
+        margin-top: 25px;
+        margin-left: 21%;
+        }
+
+        .li{
+            margin-left: 60px;
+            word-spacing: 8px;
+            color: chocolate;
+            font-weight: bold;
+        }
+    h6{
+        text-align: center;
+        font-size: xx-large;
+        font-style: inherit;
+        color: coral;
+        font-weight: bolder;
+        word-spacing:8px ;  
+      }
+      
+    .second-child{
+        /* border: 2px solid green; */
+        padding: 1px;
+        display: flex;
+        margin: 10px 10px 10px 110px;
+        font-size: larger;
+        width: fit-content;
+        text-align: center;
+        color:white;
+        font-style:inherit;
+        word-spacing: 5px;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    }
+    .third-child{
+        /* border: 2px solid green; */
+        padding: 1px;
+        display:flex;
+        margin: 10px 10px 10px 110px;
+        word-spacing:5px;
+        width:79%;
+        font-size: larger;
+        text-align: center;
+        color:white;
+        font-style:inherit;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+
+     
+    }
+    .right-top{
+        /* border: 2px solid green; */
+        margin: 10px;
+        padding: 40px;
+       text-align: center; 
+       background-image: url(./imgages/index9.jpg);
+        cursor: all-scroll;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+
+
+    }
+    .right-bottom{
+        /* border: 2px solid green; */
+        margin: 10px;
+        padding: 40px;
+        text-align: center;
+        background-image: url(./imgages/indexc.jpg);
+        cursor: all-scroll;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    }
+
+    .left-top{
+        /* border: 2px solid green; */
+        padding: 45px;
+        margin: 10px;
+        text-align: center;
+        background-image: url(./imgages/indexi.jpg);
+        cursor: all-scroll;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    }
+    .left-bottom{
+        /* border: 2px solid green; */
+        padding: 45px;
+        margin: 10px;
+        text-align: center;
+        background-image: url(./imgages/indexm6.jpg);
+        cursor: all-scroll;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+
+    }
+   .fourth-cont{
+       /* border: 3px solid coral; */
+       color:coral;
+       word-spacing: 7px;
+       text-align: center;
+       padding: 10px;
+
+   }
+   .bottom-cont{
+    /* border: 3px solid black; */
+    display: flex;
+    background-color: black;
+    color: white;
+    padding: 2px;
+    font-size: larger;
+    font-weight: bold;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+
+   }
+   .container{
+       position: relative;
+   }
+   .first{
+       margin-left: 5px;
+   }
+   
